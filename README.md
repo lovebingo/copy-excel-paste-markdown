@@ -29,3 +29,9 @@ This will produce the following markdown table when pasted:
 | dog    | 85lb   | black  |
 | cat    | 18lb   | calico |
 ```
+
+
+## Note：
+如果Excel表格中有换行符，可批量替换Ctrl+J，为空格，可批量消除Excel表格中的换行符。
+
+在查找内容框内点击后，按组合键Ctrl+J (注意不是输入)，点击“全部替换”；即可清除所有换行符。
